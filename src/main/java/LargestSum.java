@@ -22,5 +22,5 @@ public class LargestSum {
             }
         }
         return largest + secondLargest;
-    }
+    } 
 }
